@@ -1,7 +1,12 @@
 #!/bin/bash
 
+# current version 1.0.1f
 SSL_MAJOR=1.0
-SSL_MINOR=1e
+SSL_MINOR=1f
+
+# maintained openssl version 1.0.0l
+# SSL_MINOR=0l
+
 SSLVER=$SSL_MAJOR.$SSL_MINOR
 
 FIPS_MAJOR=2.0
