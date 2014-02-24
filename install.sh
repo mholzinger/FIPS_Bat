@@ -7,6 +7,9 @@ SSL_MINOR=1f
 # maintained openssl version 1.0.0l
 # SSL_MINOR=0l
 
+# new openssl beta release
+# SSL_MINOR=2-beta
+
 SSLVER=$SSL_MAJOR.$SSL_MINOR
 
 FIPS_MAJOR=2.0
