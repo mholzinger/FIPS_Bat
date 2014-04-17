@@ -1,14 +1,14 @@
 #!/bin/bash
 
-# current version 1.0.1f
+# current version 1.0.1g
 SSL_MAJOR=1.0
-SSL_MINOR=1f
+SSL_MINOR=1g
 
 # maintained openssl version 1.0.0l
 # SSL_MINOR=0l
 
 # new openssl beta release
-# SSL_MINOR=2-beta
+# SSL_MINOR=2-beta1
 
 SSLVER=$SSL_MAJOR.$SSL_MINOR
 
