@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# current version 1.0.1g
+# current version 1.0.1k
 SSL_MAJOR=1.0
-SSL_MINOR=1h
+SSL_MINOR=1k
 
 # maintained openssl version 1.0.0l
 # SSL_MINOR=2
@@ -13,7 +13,7 @@ SSL_MINOR=1h
 SSLVER=$SSL_MAJOR.$SSL_MINOR
 
 FIPS_MAJOR=2.0
-FIPS_MINOR=7
+FIPS_MINOR=9
 FIPSVER=$FIPS_MAJOR.$FIPS_MINOR
 
 # specify /usr/local/ssl or another path
