@@ -2,13 +2,13 @@
 
 # current version 1.0.1k
 SSL_MAJOR=1.0
-SSL_MINOR=1k
+SSL_MINOR=1l
 
-# maintained openssl version 1.0.0l
+# maintained openssl version 1.0.1l
 # SSL_MINOR=2
 
 # new openssl beta release
-# SSL_MINOR=2-beta2
+# SSL_MINOR=2-beta3
 
 SSLVER=$SSL_MAJOR.$SSL_MINOR
 
